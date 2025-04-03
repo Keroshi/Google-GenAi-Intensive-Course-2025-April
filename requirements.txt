@@ -30,3 +30,4 @@ google-resumable-media
 googleapis-common-protos
 googledrivedownloader
 dotenv
+chromadb
