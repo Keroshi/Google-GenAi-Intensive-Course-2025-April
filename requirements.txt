@@ -32,3 +32,5 @@ googledrivedownloader
 dotenv
 chromadb
 seaborn
+scikit-learn
+keras
