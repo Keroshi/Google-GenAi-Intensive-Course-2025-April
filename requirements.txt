@@ -31,3 +31,4 @@ googleapis-common-protos
 googledrivedownloader
 dotenv
 chromadb
+seaborn
