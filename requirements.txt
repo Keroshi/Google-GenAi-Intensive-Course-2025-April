@@ -34,3 +34,4 @@ chromadb
 seaborn
 scikit-learn
 keras
+tensorflow
