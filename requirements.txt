@@ -30,7 +30,6 @@ google-resumable-media
 googleapis-common-protos
 googledrivedownloader
 dotenv
-chromadb
 seaborn
 scikit-learn
 keras
