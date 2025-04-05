@@ -14,3 +14,13 @@ Then set the google API key have generated in a .env file. (If you haven't gener
 ![Screenshot](assets/Screenshot%202025-04-05%20135052.png)
 
 I have tried to limit my tinkering with the notebooks to keep them as close to the original as possible, which was created by Mark MCD and others: https://www.kaggle.com/markishere
+Roadmap for the notebooks:
+- Day 1 - Prompting
+- Day 1 - Evaluation and Structured Output
+- Day 2 - Document Q&A with RAG
+- Day 2 - Embeddings and Similarity Scores
+- Day 2 - Classifying Embedding with Keras
+- Day 3 - Function Calling with the Gemini API
+- Day 3 - BUilding an Agent with LangGraph
+- Day 4 - Fine Tuning a Custom Model
+- Day 4 - Google Search Grounding
